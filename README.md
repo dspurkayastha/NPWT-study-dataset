@@ -17,13 +17,13 @@ This single-center RCT (n = 72) compared NPWT and CWT in patients with open post
 - the WHIPS and TRI calculators are separately held
 
 ## Citation
-> Purkayastha DS, et al. (2025). NPWT vs CWT Clinical Trial Dataset (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Purkayastha DS, et al. (2025). NPWT vs CWT Clinical Trial Dataset (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15244453
 
 ## License
 This dataset is released under the [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Related Publication
-**DOI**: [To be added]  
+**DOI**: 10.5281/zenodo.15244453  
 **Preprint/Journal**: [Link to publication]
 
 ## Data Dictionary
